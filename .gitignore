@@ -1,13 +1,17 @@
 # Gradle files
 .gradle/
 build/
+<<<<<<< HEAD
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
 !**/src/test/**/build/
+=======
+>>>>>>> 737b5f668be5b67802778590fa5b82851f84ede4
 
 # Local configuration file (sdk path, etc)
 local.properties
 
+<<<<<<< HEAD
 # Android Studio
 .idea/
 *.iws
@@ -16,11 +20,31 @@ local.properties
 .navigation/
 captures/
 .output/
+=======
+# Log/OS Files
+*.log
+
+# Android Studio generated files and folders
+captures/
+.externalNativeBuild/
+.cxx/
+*.aab
+*.apk
+output-metadata.json
+
+# IntelliJ
+*.iml
+.idea/
+misc.xml
+deploymentTargetDropDown.xml
+render.experimental.xml
+>>>>>>> 737b5f668be5b67802778590fa5b82851f84ede4
 
 # Keystore files
 *.jks
 *.keystore
 
+<<<<<<< HEAD
 # External native build folder generated in Android Studio 2.2 and later
 .externalNativeBuild
 .cxx/
@@ -78,3 +102,10 @@ lint/reports/
 # Test results
 /test-results/
 /androidTest-results/
+=======
+# Google Services (e.g. APIs or Firebase)
+google-services.json
+
+# Android Profiling
+*.hprof
+>>>>>>> 737b5f668be5b67802778590fa5b82851f84ede4

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # POS Customer Interface - Android (Kotlin)
 
 A modern Android POS (Point of Sale) Customer Interface built with **Kotlin** and **Jetpack Compose**. This app allows restaurant customers to browse menus, place orders, pay via M-Pesa, and track their order status in real-time.
@@ -214,3 +215,6 @@ MIT License - feel free to use for commercial or personal projects.
 ## Support
 
 For issues or feature requests, please create an issue in the repository.
+=======
+# customer001
+>>>>>>> 737b5f668be5b67802778590fa5b82851f84ede4
