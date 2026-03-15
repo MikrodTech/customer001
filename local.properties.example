@@ -1,0 +1,17 @@
+# Local configuration file (DO NOT CHECK INTO VERSION CONTROL)
+# Copy this file to local.properties and update with your SDK path
+
+# macOS/Linux
+sdk.dir=/Users/yourname/Library/Android/sdk
+
+# Windows
+# sdk.dir=C:\\Users\\yourname\\AppData\\Local\\Android\\Sdk
+
+# M-Pesa Configuration (Optional - for production)
+MPESA_CONSUMER_KEY=your_consumer_key
+MPESA_CONSUMER_SECRET=your_consumer_secret
+MPESA_PASSKEY=your_passkey
+MPESA_SHORTCODE=your_shortcode
+
+# Kitchen API URL (Optional - for production)
+KITCHEN_API_URL=https://your-kitchen-api.com/

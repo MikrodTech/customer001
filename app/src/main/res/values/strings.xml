@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">POS Customer</string>
+    
+    <!-- Home Screen -->
+    <string name="select_table">Select Your Table</string>
+    <string name="choose_table_hint">Choose a table to start ordering</string>
+    <string name="browse_menu">Browse Menu</string>
+    <string name="current_order">Current Order</string>
+    <string name="order_more">Order More</string>
+    <string name="track_order">Track Order</string>
+    <string name="call_waiter">Call Waiter</string>
+    <string name="view_orders">View Orders</string>
+    
+    <!-- Table Selection -->
+    <string name="tables_available">tables available</string>
+    <string name="available">Available</string>
+    <string name="occupied">Occupied</string>
+    <string name="reserved">Reserved</string>
+    <string name="continue_with_table">Continue with Table %d</string>
+    <string name="change">Change</string>
+    
+    <!-- Menu -->
+    <string name="menu">Menu</string>
+    <string name="search_menu">Search menu...</string>
+    <string name="popular">Popular</string>
+    <string name="new">New</string>
+    <string name="add">Add</string>
+    <string name="no_items_found">No items found</string>
+    <string name="try_different_search">Try adjusting your search or category</string>
+    
+    <!-- Categories -->
+    <string name="starters">Starters</string>
+    <string name="main_course">Main Course</string>
+    <string name="desserts">Desserts</string>
+    <string name="beverages">Beverages</string>
+    
+    <!-- Cart -->
+    <string name="your_order">Your Order</string>
+    <string name="cart_empty">Your cart is empty</string>
+    <string name="add_items_hint">Add some delicious items from the menu</string>
+    <string name="clear_cart">Clear Cart</string>
+    <string name="promo_code">Promo Code</string>
+    <string name="enter_promo">Enter code (try HAPPY20)</string>
+    <string name="apply">Apply</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="discount">Discount</string>
+    <string name="tax">Tax (8%)</string>
+    <string name="total">Total</string>
+    <string name="checkout">Checkout</string>
+    <string name="special_instructions">Special instructions...</string>
+    
+    <!-- Checkout -->
+    <string name="payment_method">Payment Method</string>
+    <string name="mpesa">M-Pesa</string>
+    <string name="mpesa_subtitle">Pay with M-Pesa</string>
+    <string name="card">Card</string>
+    <string name="card_subtitle">Credit or Debit card</string>
+    <string name="cash">Cash</string>
+    <string name="cash_subtitle">Pay at counter</string>
+    <string name="mpesa_phone">M-Pesa Phone Number</string>
+    <string name="phone_hint">e.g., 0712345678</string>
+    <string name="mpesa_prompt_info">You will receive an M-Pesa prompt on your phone</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="pay_amount">Pay $%.2f</string>
+    <string name="processing">Processing...</string>
+    <string name="waiting_mpesa">Waiting for M-Pesa confirmation...</string>
+    
+    <!-- Payment Success -->
+    <string name="order_confirmed">Order Confirmed!</string>
+    <string name="order_success_message">Your order #%s has been placed successfully</string>
+    <string name="confirmed">Confirmed</string>
+    <string name="preparing">Preparing</string>
+    <string name="ready">Ready</string>
+    <string name="estimated_time">Estimated time: %d minutes</string>
+    <string name="back_to_home">Back to Home</string>
+    
+    <!-- Order Status -->
+    <string name="order_status">Order Status</string>
+    <string name="order_received">Order Received</string>
+    <string name="order_confirmed_status">Order Confirmed</string>
+    <string name="being_prepared">Being Prepared</string>
+    <string name="ready_for_pickup">Ready for Pickup</string>
+    <string name="order_served">Order Served</string>
+    <string name="order_cancelled">Order Cancelled</string>
+    <string name="order_not_found">Order Not Found</string>
+    <string name="order_not_exist">The order you\'re looking for doesn\'t exist</string>
+    <string name="refresh">Refresh</string>
+    <string name="order_details">Order Details</string>
+    <string name="table_number">Table Number</string>
+    <string name="order_time">Order Time</string>
+    <string name="order_served_message">Your order has been served!</string>
+    <string name="enjoy_meal">Thank you for dining with us. Enjoy your meal!</string>
+    
+    <!-- Payment Status -->
+    <string name="payment_pending">Payment Pending</string>
+    <string name="payment_processing">Payment Processing</string>
+    <string name="payment_completed">Payment Completed</string>
+    <string name="payment_failed">Payment Failed</string>
+    
+    <!-- Errors -->
+    <string name="error_generic">An error occurred</string>
+    <string name="error_network">Network error. Please check your connection.</string>
+    <string name="error_cart_empty">Your cart is empty</string>
+    <string name="error_no_table">No table selected</string>
+    <string name="error_mpesa_failed">Failed to initiate M-Pesa payment</string>
+    <string name="error_payment_timeout">Payment confirmation timed out</string>
+</resources>
